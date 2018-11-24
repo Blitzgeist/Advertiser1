@@ -48,6 +48,7 @@ public class MainActivity extends FragmentActivity implements GoogleApiClient.Co
 
 
     GoogleApiClient mGoogleApiClient;
+    private String changes;
     private static final String TAG = "Advertiser";
     public static final String CLIENT_NAME = "Teacher";
     public static final String SERVICE_ID = "Class302";
